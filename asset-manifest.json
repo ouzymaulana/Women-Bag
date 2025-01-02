@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Women-Bag/static/css/main.f1794129.css",
+    "main.js": "/Women-Bag/static/js/main.861996f8.js",
+    "static/js/787.9afc65c5.chunk.js": "/Women-Bag/static/js/787.9afc65c5.chunk.js",
+    "static/media/bagCat2.svg": "/Women-Bag/static/media/bagCat2.7aa91541fca23bac0f6a2f027c5bb4e5.svg",
+    "static/media/welcome-bag.svg": "/Women-Bag/static/media/welcome-bag.0e06e376f6109ab4392a6caa03d80036.svg",
+    "static/media/bagCat3.svg": "/Women-Bag/static/media/bagCat3.8fddd7f1a8297bb2a23d920cb5fa2b24.svg",
+    "static/media/Frame3.png": "/Women-Bag/static/media/Frame3.318619aeb8e2af8a093d.png",
+    "static/media/bagmodel-two.jpg": "/Women-Bag/static/media/bagmodel-two.f4a73c20c7d3221fbfbf.jpg",
+    "static/media/bagmodel.jpg": "/Women-Bag/static/media/bagmodel.1fff667e3412d9081989.jpg",
+    "static/media/bagCat.jpg": "/Women-Bag/static/media/bagCat.b0d0998faa309ecf7038.jpg",
+    "index.html": "/Women-Bag/index.html",
+    "main.f1794129.css.map": "/Women-Bag/static/css/main.f1794129.css.map",
+    "main.861996f8.js.map": "/Women-Bag/static/js/main.861996f8.js.map",
+    "787.9afc65c5.chunk.js.map": "/Women-Bag/static/js/787.9afc65c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1794129.css",
+    "static/js/main.861996f8.js"
+  ]
+}
